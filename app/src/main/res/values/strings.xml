@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Proteinbiosynthese</string>
+
+	<string-array name="navitems">
+		<item>Proteinbiosynthese</item>
+		<item>Code-Sonne</item>
+	</string-array>
+
+	<string name="empty"></string>
+
+</resources>
